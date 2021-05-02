@@ -1,0 +1,24 @@
+-> Log in
+-> Log out
+
+// funcionalidade de procura 
+-> Procurar por todas as vendas de um dado produto
+-> Procurar por todas as vendas de um dado produto consoante:
+
+        -> linguagem do produto
+        -> condição do produto
+        -> preço do produto
+
+        -> localização do vendedor
+        -> preço dos portes
+
+        -> preço do produto + portes 
+
+// funcionalidade de otimização
+-> Procurar por todas as vendas de um produto restrito a qualquer uma da restrições indicadas acima
+
+// funcionalidade de aviso
+-> avisar o user quando aparecer uma venda que corresponda aos parametros que ele indicou
+
+// funcionalidade da dashboard
+-> basicamente um subset das funcionalidades de procura mas que em vez de devolver uma lista das cartas, devolve um grafico
