@@ -1,0 +1,27 @@
+Use Case: Fazer registo de uma conta.
+
+    Descrição: Cliente pretende registar-se no site.
+
+    Cenários: Cliente quer registar-se para poder fazer uso das funcionalidade de aviso do site.
+
+    Pré-Condição: Web server a correr.
+
+    Pós-Condição: Cliente tem uma conta registada.
+
+    Fluxo Normal: 
+            1. Cliente indica que quer fazer registo de uma conta nova.
+            2. Servidor web apresenta o formulário de registo.
+            3. Cliente indica as suas credenciais.
+            4. Servidor web valida as credenciais e redireciona o user para a página de log in.
+
+    Fluxo Alternativo: [Registo com conta da Google] (Passo 1)
+            1.1. Cliente indica que quer fazer registo com conta da Google.
+            1.2 Servidor web redireciona para pagina da Google para Cliente selecionar o seu e-mail.
+            1.3 Regressa a passo 3.
+
+    Fluxo Excepção: [Credenciais inválidas] (passo 4)
+            4.1 Servidor web indica que já existe uma conta criada com as as credenciais indicadas para registo da conta.
+            4.2 Regressa a passo 2.
+
+    
+
