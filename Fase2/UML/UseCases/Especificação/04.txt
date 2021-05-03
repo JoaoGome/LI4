@@ -1,0 +1,22 @@
+Use Case: Procurar por todas as vendas de um produto.
+
+    Descrição: Cliente pretende procurar todas as vendas disponíveis de um dado produto.
+
+    Cenários: Cliente quer procurar as vendas do produto "Lightning Bolt"; Cliente quer procurar todas as vendas do produto "Pikachu toy".
+
+    Pré-Condição: Cliente encontra-se logged in.
+
+    Pós-Condição: Cliente obtém a lista de vendas do produto pretendido.
+
+    Fluxo Normal: 
+            1. Cliente indica qual o produto do qual quer obter a lista de vendas disponivéis.
+            2. A app apresenta a lista de vendas associadas ao produto.
+            
+
+    Fluxo Excepção: [Produto não existe] (passo 2)
+            2.1. A app informa que não existe nenhum produto que corresponda ao nome inserido e sugere produtos com nome parecido ao inserido.
+            2.2. Regressa a passo 1.
+
+
+    
+

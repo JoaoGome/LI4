@@ -4,24 +4,24 @@ Use Case: Fazer log in.
 
     Cenários: Cliente quer fazer log in para usar a funcionalidade de aviso.
 
-    Pré-Condição: Web server a correr e o cliente não está logged in.
+    Pré-Condição: O cliente não está logged in.
 
     Pós-Condição: Cliente está logged in.
 
     Fluxo Normal: 
             1. Cliente indica que quer fazer log in.
-            2. Servidor web apresenta o formulário de log in.
+            2. A app apresenta o formulário de log in.
             3. Cliente indica as suas credenciais de acesso.
-            4. Servidor web valida o acesso e redireciona o user para a página principal.
+            4. A app valida o acesso e redireciona o user para a página principal.
 
     Fluxo Alternativo: [Log in com conta da Google] (Passo 1)
             1.1. Cliente indica que quer fazer log in com conta da Google
-            1.2 Servidor web redireciona para pagina da Google para Cliente selecionar o seu e-mail.
-            1.3 Regressa a passo 4.
+            1.2. A App redireciona para pagina da Google para Cliente selecionar o seu e-mail.
+            1.3. Regressa a passo 4.
 
     Fluxo Excepção: [Credenciais inválidas] (passo 4)
-            4.1 Servidor web indica que as credenciais indicadas não correspondem a uma conta.
-            4.2 Regressa a passo 2.
+            4.1. A app indica que as credenciais indicadas não correspondem a uma conta.
+            4.2. Regressa a passo 2.
 
     
 

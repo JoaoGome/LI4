@@ -1,0 +1,27 @@
+Use Case: Procurar por todas as vendas de um produto, filtrando pela localização do vendedor. 
+
+    Descrição: Cliente pretende procurar todas as vendas disponíveis de um dado produto, especificando uma localização para o vendedor.
+
+    Cenários: Cliente quer procurar todas as vendas do produto "Lightning Bolt" por vendedores localizadas em França.
+
+    Pré-Condição: Cliente encontra-se logged in.
+
+    Pós-Condição: Cliente obtém a lista de vendas do produto pretendido com as restrições indicadas.
+
+    Fluxo Normal: 
+            1. Cliente indica qual o produto do qual quer obter a lista de vendas disponivéis e a localização para o vendedor que pretende.
+            2. A app apresenta a lista de vendas associadas ao produto que verificam a localização do vendedor indicada.
+            
+
+    Fluxo Excepção: [Produto não existe] (passo 2)
+            2.1. A app informa que não existe nenhum produto que corresponda ao nome inserido e sugere produtos com nome parecido ao inserido.
+            2.2. Regressa a passo 1.
+
+    Fluxo Excepção: [Localização inserida não válida] (passo 2)
+            2.1. A app informa que a localização inserida não é válida.
+            2.2. Regressa a passo 1.
+
+    
+
+    
+
