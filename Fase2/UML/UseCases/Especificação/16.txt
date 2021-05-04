@@ -1,0 +1,30 @@
+Use Case: Mostrar o gráfico da variação do preço de um produto tendo em conta uma condição em especifico e um periodo de tempo. 
+
+    Descrição: Cliente pretende ver a variação do preço dado produto, filtrando por uma condição específica.
+
+    Cenários: Cliente quer ver a variação do preço do produto "Lightning Bolt" em condição "Excelente" nos últimos 7 dias.
+
+    Pré-Condição: Cliente encontra-se logged in.
+
+    Pós-Condição: Cliente obtém um gráfico com a evolução do preço do produto pretendido com as restrições indicadas.
+
+    Fluxo Normal: 
+            1. Cliente indica qual o produto do qual quer obter um gráfico, a condição que pretende e o periodo de tempo a considerar.
+            2. A app apresenta o gráfico correspodente.
+            
+    Fluxo Excepção: [Produto não existe] (passo 2)
+            2.1. A app informa que não existe nenhum produto que corresponda ao nome inserido e sugere produtos com nome parecido ao inserido.
+            2.2. Regressa a passo 1.
+
+    Fluxo Excepção: [Condição não existe] (passo 2)
+            2.1. A app informa que não existe a condição inserida e sugere condições possiveis.
+            2.2. Regressa a passo 1.
+
+    Fluxo Excepção: [Periodo de tempo não válido] (passo 2)
+            2.1. A app informa que o periodo de tempo inserido não é válido.
+            2.2. Regressa a passo 1.
+
+    
+
+    
+

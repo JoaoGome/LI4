@@ -1,0 +1,29 @@
+Use Case: Mostrar o gráfico da variação de preço de um produto, permitindo filtrar por mais que uma restrição. 
+
+    Descrição: Cliente pretende ver a variação de preço de um dado produto, especificando uma combinação de restrições que pretenda.
+
+    Cenários: Cliente quer ver a variação de preço do produto "Lightning Bolt" em "Português", de condição "Excelente" e da expansão "M25".
+
+    Pré-Condição: Cliente encontra-se logged in.
+
+    Pós-Condição: Cliente obtém um gráfico com a evolução do preço do produto pretendido com as restrições indicadas.
+
+    Fluxo Normal: 
+            1. Cliente indica qual o produto do qual quer obter um gráfico temdo em conta as restrições indicadas
+            2. A app apresenta o gráfico correspondente.
+            
+    Fluxo Excepção: [Produto não existe] (passo 2)
+            2.1. A app informa que não existe nenhum produto que corresponda ao nome inserido e sugere produtos com nome parecido ao inserido.
+            2.2. Regressa a passo 1.
+
+    Fluxo Excepção: [Restrições indicadas não válidas] (passo 2)
+            2.1. A app informa que o conjunto de restrições indicadas não é válido.
+            2.2. Regressa a passo 1.
+
+    Fluxo Excepção: [Periodo de tempo não válido] (passo 2)
+            2.1. A app informa que o periodo de tempo inserido não é válido.
+            2.2. Regressa a passo 1.
+    
+
+    
+

@@ -18,7 +18,7 @@
         11 expansão do produto
 
 // funcionalidade de otimização
-12 Procurar por todas as vendas de um produto restrito a qualquer uma da restrições indicadas acima
+12 Procurar por todas as vendas de um produto restrito a uma combinação das restrições indicadas acima
 
 // funcionalidade de aviso
 13 O user indica que pretende ser avisado quando uma venda aparecer com os parametros indicados
@@ -26,4 +26,10 @@
 14 O sistema avisa o user quando uma venda aparecer
 
 // funcionalidade da dashboard
-15 basicamente um subset das funcionalidades de procura mas que em vez de devolver uma lista das cartas, devolve um grafico
+   basicamente um subset das funcionalidades de procura mas que em vez de devolver uma lista das cartas, devolve um grafico
+
+        15 grafico com a variaçao do preço em funçao da linguagem 
+        16 condiçao
+        17 localizaçao do vendedor 
+        18 expansao
+        19 permitir ter varias funçoes no mesmo grafico para comparar varios parametros ao mesmo tempo

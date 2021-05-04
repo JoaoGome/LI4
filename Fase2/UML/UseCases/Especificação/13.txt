@@ -1,0 +1,21 @@
+Use Case: User indica ao sistema que pretende ser avisado quando uma venda aparecer que corresponde aos parametros por ele indicados.
+
+    Descrição: Cliente pretende procurar todas as vendas disponíveis de um dado produto, especificando uma combinação de restrições que pretenda.
+
+    Cenários: Cliente não encontrou nenhuma venda do produto "Lightning Bolt" em "Português", de condição "Excelente" e pretende que seja avisado quando uma venda que corresponda a estes parametros surja.
+
+    Pré-Condição: Cliente encontra-se logged in e não obteve nenhuma venda que corresponda aos parametros indicados.
+
+    Pós-Condição: A app regista que o cliente quer ser avisado e começa a procurar automaticamente por vendas que correspondam à pretendida, sempre que a database for updated.
+
+    Fluxo Normal: 
+            1. Cliente indica que pretende ser avisado caso uma venda surja.
+            2. A app pergunta ao cliente por que métodos pretende ser avisado (aviso na app, e-mail, sms).
+            3. Cliente escolhe qual o método.
+            4. A app regista esse método e a essa venda associada à conta logged in.
+            
+
+    
+
+    
+
