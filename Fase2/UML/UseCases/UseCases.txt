@@ -23,8 +23,6 @@
 // funcionalidade de aviso
 13 O user indica que pretende ser avisado quando uma venda aparecer com os parametros indicados
 
-14 O sistema avisa o user quando uma venda aparecer
-
 // funcionalidade da dashboard
    basicamente um subset das funcionalidades de procura mas que em vez de devolver uma lista das cartas, devolve um grafico
 

@@ -14,7 +14,7 @@ Use Case: Procurar por todas as vendas de um produto.
             
 
     Fluxo Excepção: [Produto não existe] (passo 2)
-            2.1. A app informa que não existe nenhum produto que corresponda ao nome inserido e sugere produtos com nome parecido ao inserido.
+            2.1. A app informa que não existe nenhum produto que corresponda ao nome inserido.
             2.2. Regressa a passo 1.
 
 
