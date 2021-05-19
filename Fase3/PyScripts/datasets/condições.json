@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "designacao": "Perfeita"
+    },
+    {
+        "id": 1,
+        "designacao": "Quase Perfeita"
+    },
+    {
+        "id": 2,
+        "designacao": "Excelente"
+    },
+    {
+        "id": 3,
+        "designacao": "Boa"
+    },
+    {
+        "id": 4,
+        "designacao": "Pouco Jogada"
+    },
+    {
+        "id": 5,
+        "designacao": "Jogada"
+    },
+    {
+        "id": 6,
+        "designacao": "Má"
+    }
+]
