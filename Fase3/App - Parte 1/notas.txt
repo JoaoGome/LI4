@@ -1,0 +1,20 @@
+Passos: (isto é para quem usar vscode em mac/linux a correr o microsoft sql num docker. Em windows com visual studio nao faço a minima como se faz isto.)
+
+1. criar a database no Microsoft SQL
+2. ir ao ficheiro server/appsettings.Development.json e mudar a conectionString para a vossa
+3. entrar na diretoria do server e correr estes 3 comandos para instalar estas packages:
+
+    dotnet add package Microsoft.EntityFrameworkCore
+    dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+    dotnet add package Microsoft.EntityFrameworkCore.Design
+
+4. instalar os cli tools com o comando: dotnet tool install --global dotnet-ef 
+
+5. na diretoria do server correr:
+
+    dotnet ef migrations add Initial (at this point deve ter sido criada uma pasta chamada migrations com merdas la dentro)
+
+    dotnet ef database update (agora se forem à database ja deve ter as tabelas criadas com os atributos)
+
+
+

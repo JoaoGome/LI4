@@ -1,0 +1,1846 @@
+[
+    {
+        "id": 0,
+        "designacao": "15th Anniversary Cards"
+    },
+    {
+        "id": 1,
+        "designacao": "2016 Heroes of the Realm"
+    },
+    {
+        "id": 2,
+        "designacao": "2017 Gift Pack"
+    },
+    {
+        "id": 3,
+        "designacao": "2017 Heroes of the Realm"
+    },
+    {
+        "id": 4,
+        "designacao": "2018 Lunar New Year"
+    },
+    {
+        "id": 5,
+        "designacao": "Aether Revolt"
+    },
+    {
+        "id": 6,
+        "designacao": "Aether Revolt Promos"
+    },
+    {
+        "id": 7,
+        "designacao": "Alara Reborn"
+    },
+    {
+        "id": 8,
+        "designacao": "Alliances"
+    },
+    {
+        "id": 9,
+        "designacao": "Amonkhet"
+    },
+    {
+        "id": 10,
+        "designacao": "Amonkhet Invocations"
+    },
+    {
+        "id": 11,
+        "designacao": "Amonkhet Promos"
+    },
+    {
+        "id": 12,
+        "designacao": "Anthologies"
+    },
+    {
+        "id": 13,
+        "designacao": "Antiquities"
+    },
+    {
+        "id": 14,
+        "designacao": "Apocalypse"
+    },
+    {
+        "id": 15,
+        "designacao": "Arabian Nights"
+    },
+    {
+        "id": 16,
+        "designacao": "Archenemy"
+    },
+    {
+        "id": 17,
+        "designacao": "Archenemy Schemes"
+    },
+    {
+        "id": 18,
+        "designacao": "Archenemy: Nicol Bolas"
+    },
+    {
+        "id": 19,
+        "designacao": "Archenemy: Nicol Bolas Schemes"
+    },
+    {
+        "id": 20,
+        "designacao": "Arena League 1996"
+    },
+    {
+        "id": 21,
+        "designacao": "Arena League 1999"
+    },
+    {
+        "id": 22,
+        "designacao": "Arena League 2000"
+    },
+    {
+        "id": 23,
+        "designacao": "Arena League 2001"
+    },
+    {
+        "id": 24,
+        "designacao": "Arena League 2002"
+    },
+    {
+        "id": 25,
+        "designacao": "Arena League 2003"
+    },
+    {
+        "id": 26,
+        "designacao": "Arena League 2004"
+    },
+    {
+        "id": 27,
+        "designacao": "Arena League 2005"
+    },
+    {
+        "id": 28,
+        "designacao": "Arena League 2006"
+    },
+    {
+        "id": 29,
+        "designacao": "Arena New Player Experience"
+    },
+    {
+        "id": 30,
+        "designacao": "Asia Pacific Land Program"
+    },
+    {
+        "id": 31,
+        "designacao": "Avacyn Restored"
+    },
+    {
+        "id": 32,
+        "designacao": "Avacyn Restored Promos"
+    },
+    {
+        "id": 33,
+        "designacao": "BFZ Standard Series"
+    },
+    {
+        "id": 34,
+        "designacao": "Battle Royale Box Set"
+    },
+    {
+        "id": 35,
+        "designacao": "Battle for Zendikar"
+    },
+    {
+        "id": 36,
+        "designacao": "Battle for Zendikar Promos"
+    },
+    {
+        "id": 37,
+        "designacao": "Battle the Horde"
+    },
+    {
+        "id": 38,
+        "designacao": "Battlebond"
+    },
+    {
+        "id": 39,
+        "designacao": "Battlebond Promos"
+    },
+    {
+        "id": 40,
+        "designacao": "Beatdown Box Set"
+    },
+    {
+        "id": 41,
+        "designacao": "Betrayers of Kamigawa"
+    },
+    {
+        "id": 42,
+        "designacao": "Born of the Gods"
+    },
+    {
+        "id": 43,
+        "designacao": "Born of the Gods Hero's Path"
+    },
+    {
+        "id": 44,
+        "designacao": "Born of the Gods Promos"
+    },
+    {
+        "id": 45,
+        "designacao": "Celebration Cards"
+    },
+    {
+        "id": 46,
+        "designacao": "Champions of Kamigawa"
+    },
+    {
+        "id": 47,
+        "designacao": "Champs and States"
+    },
+    {
+        "id": 48,
+        "designacao": "Chronicles"
+    },
+    {
+        "id": 49,
+        "designacao": "Classic Sixth Edition"
+    },
+    {
+        "id": 50,
+        "designacao": "Coldsnap"
+    },
+    {
+        "id": 51,
+        "designacao": "Coldsnap Theme Decks"
+    },
+    {
+        "id": 52,
+        "designacao": "Collectors\u2019 Edition"
+    },
+    {
+        "id": 53,
+        "designacao": "Commander 2011"
+    },
+    {
+        "id": 54,
+        "designacao": "Commander 2011 Launch Party"
+    },
+    {
+        "id": 55,
+        "designacao": "Commander 2011 Oversized"
+    },
+    {
+        "id": 56,
+        "designacao": "Commander 2013"
+    },
+    {
+        "id": 57,
+        "designacao": "Commander 2013 Oversized"
+    },
+    {
+        "id": 58,
+        "designacao": "Commander 2014"
+    },
+    {
+        "id": 59,
+        "designacao": "Commander 2014 Oversized"
+    },
+    {
+        "id": 60,
+        "designacao": "Commander 2015"
+    },
+    {
+        "id": 61,
+        "designacao": "Commander 2015 Oversized"
+    },
+    {
+        "id": 62,
+        "designacao": "Commander 2016"
+    },
+    {
+        "id": 63,
+        "designacao": "Commander 2016 Oversized"
+    },
+    {
+        "id": 64,
+        "designacao": "Commander 2017"
+    },
+    {
+        "id": 65,
+        "designacao": "Commander 2017 Oversized"
+    },
+    {
+        "id": 66,
+        "designacao": "Commander 2018"
+    },
+    {
+        "id": 67,
+        "designacao": "Commander 2018 Oversized"
+    },
+    {
+        "id": 68,
+        "designacao": "Commander 2019"
+    },
+    {
+        "id": 69,
+        "designacao": "Commander 2019 Oversized"
+    },
+    {
+        "id": 70,
+        "designacao": "Commander Anthology"
+    },
+    {
+        "id": 71,
+        "designacao": "Commander Anthology Volume II"
+    },
+    {
+        "id": 72,
+        "designacao": "Commander's Arsenal"
+    },
+    {
+        "id": 73,
+        "designacao": "Commander's Arsenal Oversized"
+    },
+    {
+        "id": 74,
+        "designacao": "Conflux"
+    },
+    {
+        "id": 75,
+        "designacao": "Conspiracy"
+    },
+    {
+        "id": 76,
+        "designacao": "Conspiracy: Take the Crown"
+    },
+    {
+        "id": 77,
+        "designacao": "Core Set 2019"
+    },
+    {
+        "id": 78,
+        "designacao": "Core Set 2019 Promos"
+    },
+    {
+        "id": 79,
+        "designacao": "Core Set 2020"
+    },
+    {
+        "id": 80,
+        "designacao": "Core Set 2020 Promos"
+    },
+    {
+        "id": 81,
+        "designacao": "DCI Legend Membership"
+    },
+    {
+        "id": 82,
+        "designacao": "Dark Ascension"
+    },
+    {
+        "id": 83,
+        "designacao": "Dark Ascension Promos"
+    },
+    {
+        "id": 84,
+        "designacao": "Darksteel"
+    },
+    {
+        "id": 85,
+        "designacao": "Deckmasters"
+    },
+    {
+        "id": 86,
+        "designacao": "Defeat a God"
+    },
+    {
+        "id": 87,
+        "designacao": "Dissension"
+    },
+    {
+        "id": 88,
+        "designacao": "Dominaria"
+    },
+    {
+        "id": 89,
+        "designacao": "Dominaria Promos"
+    },
+    {
+        "id": 90,
+        "designacao": "Dragon Con"
+    },
+    {
+        "id": 91,
+        "designacao": "Dragon's Maze"
+    },
+    {
+        "id": 92,
+        "designacao": "Dragon's Maze Promos"
+    },
+    {
+        "id": 93,
+        "designacao": "Dragons of Tarkir"
+    },
+    {
+        "id": 94,
+        "designacao": "Dragons of Tarkir Promos"
+    },
+    {
+        "id": 95,
+        "designacao": "Duel Decks Anthology: Divine vs. Demonic"
+    },
+    {
+        "id": 96,
+        "designacao": "Duel Decks Anthology: Elves vs. Goblins"
+    },
+    {
+        "id": 97,
+        "designacao": "Duel Decks Anthology: Garruk vs. Liliana"
+    },
+    {
+        "id": 98,
+        "designacao": "Duel Decks Anthology: Jace vs. Chandra"
+    },
+    {
+        "id": 99,
+        "designacao": "Duel Decks: Ajani vs. Nicol Bolas"
+    },
+    {
+        "id": 100,
+        "designacao": "Duel Decks: Blessed vs. Cursed"
+    },
+    {
+        "id": 101,
+        "designacao": "Duel Decks: Divine vs. Demonic"
+    },
+    {
+        "id": 102,
+        "designacao": "Duel Decks: Elspeth vs. Kiora"
+    },
+    {
+        "id": 103,
+        "designacao": "Duel Decks: Elspeth vs. Tezzeret"
+    },
+    {
+        "id": 104,
+        "designacao": "Duel Decks: Elves vs. Goblins"
+    },
+    {
+        "id": 105,
+        "designacao": "Duel Decks: Elves vs. Inventors"
+    },
+    {
+        "id": 106,
+        "designacao": "Duel Decks: Garruk vs. Liliana"
+    },
+    {
+        "id": 107,
+        "designacao": "Duel Decks: Heroes vs. Monsters"
+    },
+    {
+        "id": 108,
+        "designacao": "Duel Decks: Izzet vs. Golgari"
+    },
+    {
+        "id": 109,
+        "designacao": "Duel Decks: Jace vs. Chandra"
+    },
+    {
+        "id": 110,
+        "designacao": "Duel Decks: Jace vs. Vraska"
+    },
+    {
+        "id": 111,
+        "designacao": "Duel Decks: Knights vs. Dragons"
+    },
+    {
+        "id": 112,
+        "designacao": "Duel Decks: Merfolk vs. Goblins"
+    },
+    {
+        "id": 113,
+        "designacao": "Duel Decks: Mind vs. Might"
+    },
+    {
+        "id": 114,
+        "designacao": "Duel Decks: Mirrodin Pure vs. New Phyrexia"
+    },
+    {
+        "id": 115,
+        "designacao": "Duel Decks: Nissa vs. Ob Nixilis"
+    },
+    {
+        "id": 116,
+        "designacao": "Duel Decks: Phyrexia vs. the Coalition"
+    },
+    {
+        "id": 117,
+        "designacao": "Duel Decks: Sorin vs. Tibalt"
+    },
+    {
+        "id": 118,
+        "designacao": "Duel Decks: Speed vs. Cunning"
+    },
+    {
+        "id": 119,
+        "designacao": "Duel Decks: Venser vs. Koth"
+    },
+    {
+        "id": 120,
+        "designacao": "Duel Decks: Zendikar vs. Eldrazi"
+    },
+    {
+        "id": 121,
+        "designacao": "Duels of the Planeswalkers"
+    },
+    {
+        "id": 122,
+        "designacao": "Duels of the Planeswalkers Promos 2009"
+    },
+    {
+        "id": 123,
+        "designacao": "Duels of the Planeswalkers Promos 2010"
+    },
+    {
+        "id": 124,
+        "designacao": "Duels of the Planeswalkers Promos 2011"
+    },
+    {
+        "id": 125,
+        "designacao": "Duels of the Planeswalkers Promos 2012"
+    },
+    {
+        "id": 126,
+        "designacao": "Duels of the Planeswalkers Promos 2013"
+    },
+    {
+        "id": 127,
+        "designacao": "Duels of the Planeswalkers Promos 2014"
+    },
+    {
+        "id": 128,
+        "designacao": "Eighth Edition"
+    },
+    {
+        "id": 129,
+        "designacao": "Eldritch Moon"
+    },
+    {
+        "id": 130,
+        "designacao": "Eldritch Moon Promos"
+    },
+    {
+        "id": 131,
+        "designacao": "Eternal Masters"
+    },
+    {
+        "id": 132,
+        "designacao": "European Land Program"
+    },
+    {
+        "id": 133,
+        "designacao": "Eventide"
+    },
+    {
+        "id": 134,
+        "designacao": "Exodus"
+    },
+    {
+        "id": 135,
+        "designacao": "Explorers of Ixalan"
+    },
+    {
+        "id": 136,
+        "designacao": "Face the Hydra"
+    },
+    {
+        "id": 137,
+        "designacao": "Fallen Empires"
+    },
+    {
+        "id": 138,
+        "designacao": "Fate Reforged"
+    },
+    {
+        "id": 139,
+        "designacao": "Fate Reforged Clash Pack"
+    },
+    {
+        "id": 140,
+        "designacao": "Fate Reforged Promos"
+    },
+    {
+        "id": 141,
+        "designacao": "Fifth Dawn"
+    },
+    {
+        "id": 142,
+        "designacao": "Fifth Edition"
+    },
+    {
+        "id": 143,
+        "designacao": "Foreign Black Border"
+    },
+    {
+        "id": 144,
+        "designacao": "Fourth Edition"
+    },
+    {
+        "id": 145,
+        "designacao": "Fourth Edition Foreign Black Border"
+    },
+    {
+        "id": 146,
+        "designacao": "Friday Night Magic 2000"
+    },
+    {
+        "id": 147,
+        "designacao": "Friday Night Magic 2001"
+    },
+    {
+        "id": 148,
+        "designacao": "Friday Night Magic 2002"
+    },
+    {
+        "id": 149,
+        "designacao": "Friday Night Magic 2003"
+    },
+    {
+        "id": 150,
+        "designacao": "Friday Night Magic 2004"
+    },
+    {
+        "id": 151,
+        "designacao": "Friday Night Magic 2005"
+    },
+    {
+        "id": 152,
+        "designacao": "Friday Night Magic 2006"
+    },
+    {
+        "id": 153,
+        "designacao": "Friday Night Magic 2007"
+    },
+    {
+        "id": 154,
+        "designacao": "Friday Night Magic 2008"
+    },
+    {
+        "id": 155,
+        "designacao": "Friday Night Magic 2009"
+    },
+    {
+        "id": 156,
+        "designacao": "Friday Night Magic 2010"
+    },
+    {
+        "id": 157,
+        "designacao": "Friday Night Magic 2011"
+    },
+    {
+        "id": 158,
+        "designacao": "Friday Night Magic 2012"
+    },
+    {
+        "id": 159,
+        "designacao": "Friday Night Magic 2013"
+    },
+    {
+        "id": 160,
+        "designacao": "Friday Night Magic 2014"
+    },
+    {
+        "id": 161,
+        "designacao": "Friday Night Magic 2015"
+    },
+    {
+        "id": 162,
+        "designacao": "Friday Night Magic 2016"
+    },
+    {
+        "id": 163,
+        "designacao": "Friday Night Magic 2017"
+    },
+    {
+        "id": 164,
+        "designacao": "Friday Night Magic 2018"
+    },
+    {
+        "id": 165,
+        "designacao": "From the Vault: Angels"
+    },
+    {
+        "id": 166,
+        "designacao": "From the Vault: Annihilation"
+    },
+    {
+        "id": 167,
+        "designacao": "From the Vault: Dragons"
+    },
+    {
+        "id": 168,
+        "designacao": "From the Vault: Exiled"
+    },
+    {
+        "id": 169,
+        "designacao": "From the Vault: Legends"
+    },
+    {
+        "id": 170,
+        "designacao": "From the Vault: Lore"
+    },
+    {
+        "id": 171,
+        "designacao": "From the Vault: Realms"
+    },
+    {
+        "id": 172,
+        "designacao": "From the Vault: Relics"
+    },
+    {
+        "id": 173,
+        "designacao": "From the Vault: Transform"
+    },
+    {
+        "id": 174,
+        "designacao": "From the Vault: Twenty"
+    },
+    {
+        "id": 175,
+        "designacao": "Future Sight"
+    },
+    {
+        "id": 176,
+        "designacao": "GRN Guild Kit"
+    },
+    {
+        "id": 177,
+        "designacao": "GRN Ravnica Weekend"
+    },
+    {
+        "id": 178,
+        "designacao": "Game Night"
+    },
+    {
+        "id": 179,
+        "designacao": "Game Night 2019"
+    },
+    {
+        "id": 180,
+        "designacao": "Gatecrash"
+    },
+    {
+        "id": 181,
+        "designacao": "Gatecrash Promos"
+    },
+    {
+        "id": 182,
+        "designacao": "Gateway 2006"
+    },
+    {
+        "id": 183,
+        "designacao": "Gateway 2007"
+    },
+    {
+        "id": 184,
+        "designacao": "Gateway 2008"
+    },
+    {
+        "id": 185,
+        "designacao": "Global Series Jiang Yanggu & Mu Yanling"
+    },
+    {
+        "id": 186,
+        "designacao": "Grand Prix Promos"
+    },
+    {
+        "id": 187,
+        "designacao": "Guildpact"
+    },
+    {
+        "id": 188,
+        "designacao": "Guilds of Ravnica"
+    },
+    {
+        "id": 189,
+        "designacao": "Guilds of Ravnica Promos"
+    },
+    {
+        "id": 190,
+        "designacao": "Guru"
+    },
+    {
+        "id": 191,
+        "designacao": "Hachette UK"
+    },
+    {
+        "id": 192,
+        "designacao": "Happy Holidays"
+    },
+    {
+        "id": 193,
+        "designacao": "HarperPrism Book Promos"
+    },
+    {
+        "id": 194,
+        "designacao": "HasCon 2017"
+    },
+    {
+        "id": 195,
+        "designacao": "Hobby Japan Promos"
+    },
+    {
+        "id": 196,
+        "designacao": "Homelands"
+    },
+    {
+        "id": 197,
+        "designacao": "Hour of Devastation"
+    },
+    {
+        "id": 198,
+        "designacao": "Hour of Devastation Promos"
+    },
+    {
+        "id": 199,
+        "designacao": "IDW Comics 2012"
+    },
+    {
+        "id": 200,
+        "designacao": "IDW Comics 2013"
+    },
+    {
+        "id": 201,
+        "designacao": "IDW Comics 2014"
+    },
+    {
+        "id": 202,
+        "designacao": "Ice Age"
+    },
+    {
+        "id": 203,
+        "designacao": "Iconic Masters"
+    },
+    {
+        "id": 204,
+        "designacao": "Innistrad"
+    },
+    {
+        "id": 205,
+        "designacao": "Innistrad Promos"
+    },
+    {
+        "id": 206,
+        "designacao": "Intl. Collectors\u2019 Edition"
+    },
+    {
+        "id": 207,
+        "designacao": "Introductory Two-Player Set"
+    },
+    {
+        "id": 208,
+        "designacao": "Invasion"
+    },
+    {
+        "id": 209,
+        "designacao": "Ixalan"
+    },
+    {
+        "id": 210,
+        "designacao": "Ixalan Promos"
+    },
+    {
+        "id": 211,
+        "designacao": "Japan Junior Tourdesignacaont"
+    },
+    {
+        "id": 212,
+        "designacao": "Journey into Nyx"
+    },
+    {
+        "id": 213,
+        "designacao": "Journey into Nyx Hero's Path"
+    },
+    {
+        "id": 214,
+        "designacao": "Journey into Nyx Promos"
+    },
+    {
+        "id": 215,
+        "designacao": "Judge Gift Cards 1998"
+    },
+    {
+        "id": 216,
+        "designacao": "Judge Gift Cards 1999"
+    },
+    {
+        "id": 217,
+        "designacao": "Judge Gift Cards 2000"
+    },
+    {
+        "id": 218,
+        "designacao": "Judge Gift Cards 2001"
+    },
+    {
+        "id": 219,
+        "designacao": "Judge Gift Cards 2002"
+    },
+    {
+        "id": 220,
+        "designacao": "Judge Gift Cards 2003"
+    },
+    {
+        "id": 221,
+        "designacao": "Judge Gift Cards 2004"
+    },
+    {
+        "id": 222,
+        "designacao": "Judge Gift Cards 2005"
+    },
+    {
+        "id": 223,
+        "designacao": "Judge Gift Cards 2006"
+    },
+    {
+        "id": 224,
+        "designacao": "Judge Gift Cards 2007"
+    },
+    {
+        "id": 225,
+        "designacao": "Judge Gift Cards 2008"
+    },
+    {
+        "id": 226,
+        "designacao": "Judge Gift Cards 2009"
+    },
+    {
+        "id": 227,
+        "designacao": "Judge Gift Cards 2010"
+    },
+    {
+        "id": 228,
+        "designacao": "Judge Gift Cards 2011"
+    },
+    {
+        "id": 229,
+        "designacao": "Judge Gift Cards 2012"
+    },
+    {
+        "id": 230,
+        "designacao": "Judge Gift Cards 2013"
+    },
+    {
+        "id": 231,
+        "designacao": "Judge Gift Cards 2014"
+    },
+    {
+        "id": 232,
+        "designacao": "Judge Gift Cards 2015"
+    },
+    {
+        "id": 233,
+        "designacao": "Judge Gift Cards 2016"
+    },
+    {
+        "id": 234,
+        "designacao": "Judge Gift Cards 2017"
+    },
+    {
+        "id": 235,
+        "designacao": "Judge Gift Cards 2018"
+    },
+    {
+        "id": 236,
+        "designacao": "Judge Gift Cards 2019"
+    },
+    {
+        "id": 237,
+        "designacao": "Judgment"
+    },
+    {
+        "id": 238,
+        "designacao": "Junior APAC Series"
+    },
+    {
+        "id": 239,
+        "designacao": "Junior Series Europe"
+    },
+    {
+        "id": 240,
+        "designacao": "Junior Super Series"
+    },
+    {
+        "id": 241,
+        "designacao": "Kaladesh"
+    },
+    {
+        "id": 242,
+        "designacao": "Kaladesh Inventions"
+    },
+    {
+        "id": 243,
+        "designacao": "Kaladesh Promos"
+    },
+    {
+        "id": 244,
+        "designacao": "Khans of Tarkir"
+    },
+    {
+        "id": 245,
+        "designacao": "Khans of Tarkir Promos"
+    },
+    {
+        "id": 246,
+        "designacao": "Launch Parties"
+    },
+    {
+        "id": 247,
+        "designacao": "League Tokens 2012"
+    },
+    {
+        "id": 248,
+        "designacao": "League Tokens 2013"
+    },
+    {
+        "id": 249,
+        "designacao": "League Tokens 2014"
+    },
+    {
+        "id": 250,
+        "designacao": "League Tokens 2015"
+    },
+    {
+        "id": 251,
+        "designacao": "League Tokens 2016"
+    },
+    {
+        "id": 252,
+        "designacao": "League Tokens 2017"
+    },
+    {
+        "id": 253,
+        "designacao": "Legacy Championship"
+    },
+    {
+        "id": 254,
+        "designacao": "Legendary Cube Prize Pack"
+    },
+    {
+        "id": 255,
+        "designacao": "Legends"
+    },
+    {
+        "id": 256,
+        "designacao": "Legions"
+    },
+    {
+        "id": 257,
+        "designacao": "Limited Edition Alpha"
+    },
+    {
+        "id": 258,
+        "designacao": "Limited Edition Beta"
+    },
+    {
+        "id": 259,
+        "designacao": "Lorwyn"
+    },
+    {
+        "id": 260,
+        "designacao": "M15 Prerelease Challenge"
+    },
+    {
+        "id": 261,
+        "designacao": "M19 Gift Pack"
+    },
+    {
+        "id": 262,
+        "designacao": "M19 Standard Showdown"
+    },
+    {
+        "id": 263,
+        "designacao": "M20 Promo Packs"
+    },
+    {
+        "id": 264,
+        "designacao": "MTG Arena Promos"
+    },
+    {
+        "id": 265,
+        "designacao": "Magazine Inserts"
+    },
+    {
+        "id": 266,
+        "designacao": "Magic 2010"
+    },
+    {
+        "id": 267,
+        "designacao": "Magic 2010 Promos"
+    },
+    {
+        "id": 268,
+        "designacao": "Magic 2011"
+    },
+    {
+        "id": 269,
+        "designacao": "Magic 2011 Promos"
+    },
+    {
+        "id": 270,
+        "designacao": "Magic 2012"
+    },
+    {
+        "id": 271,
+        "designacao": "Magic 2012 Promos"
+    },
+    {
+        "id": 272,
+        "designacao": "Magic 2013"
+    },
+    {
+        "id": 273,
+        "designacao": "Magic 2013 Promos"
+    },
+    {
+        "id": 274,
+        "designacao": "Magic 2014"
+    },
+    {
+        "id": 275,
+        "designacao": "Magic 2014 Promos"
+    },
+    {
+        "id": 276,
+        "designacao": "Magic 2015"
+    },
+    {
+        "id": 277,
+        "designacao": "Magic 2015 Clash Pack"
+    },
+    {
+        "id": 278,
+        "designacao": "Magic 2015 Promos"
+    },
+    {
+        "id": 279,
+        "designacao": "Magic Online Avatars"
+    },
+    {
+        "id": 280,
+        "designacao": "Magic Online Promos"
+    },
+    {
+        "id": 281,
+        "designacao": "Magic Online Theme Decks"
+    },
+    {
+        "id": 282,
+        "designacao": "Magic Origins"
+    },
+    {
+        "id": 283,
+        "designacao": "Magic Origins Clash Pack"
+    },
+    {
+        "id": 284,
+        "designacao": "Magic Origins Promos"
+    },
+    {
+        "id": 285,
+        "designacao": "Magic Player Rewards 2001"
+    },
+    {
+        "id": 286,
+        "designacao": "Magic Player Rewards 2002"
+    },
+    {
+        "id": 287,
+        "designacao": "Magic Player Rewards 2003"
+    },
+    {
+        "id": 288,
+        "designacao": "Magic Player Rewards 2004"
+    },
+    {
+        "id": 289,
+        "designacao": "Magic Player Rewards 2005"
+    },
+    {
+        "id": 290,
+        "designacao": "Magic Player Rewards 2006"
+    },
+    {
+        "id": 291,
+        "designacao": "Magic Player Rewards 2007"
+    },
+    {
+        "id": 292,
+        "designacao": "Magic Player Rewards 2008"
+    },
+    {
+        "id": 293,
+        "designacao": "Magic Player Rewards 2009"
+    },
+    {
+        "id": 294,
+        "designacao": "Magic Player Rewards 2010"
+    },
+    {
+        "id": 295,
+        "designacao": "Magic Player Rewards 2011"
+    },
+    {
+        "id": 296,
+        "designacao": "Magic Premiere Shop 2005"
+    },
+    {
+        "id": 297,
+        "designacao": "Magic Premiere Shop 2006"
+    },
+    {
+        "id": 298,
+        "designacao": "Magic Premiere Shop 2007"
+    },
+    {
+        "id": 299,
+        "designacao": "Magic Premiere Shop 2008"
+    },
+    {
+        "id": 300,
+        "designacao": "Magic Premiere Shop 2009"
+    },
+    {
+        "id": 301,
+        "designacao": "Magic Premiere Shop 2010"
+    },
+    {
+        "id": 302,
+        "designacao": "Magic Premiere Shop 2011"
+    },
+    {
+        "id": 303,
+        "designacao": "MagicFest 2019"
+    },
+    {
+        "id": 304,
+        "designacao": "Masters 25"
+    },
+    {
+        "id": 305,
+        "designacao": "Masters Edition"
+    },
+    {
+        "id": 306,
+        "designacao": "Masters Edition II"
+    },
+    {
+        "id": 307,
+        "designacao": "Masters Edition III"
+    },
+    {
+        "id": 308,
+        "designacao": "Masters Edition IV"
+    },
+    {
+        "id": 309,
+        "designacao": "Mercadian Masques"
+    },
+    {
+        "id": 310,
+        "designacao": "Mirage"
+    },
+    {
+        "id": 311,
+        "designacao": "Mirrodin"
+    },
+    {
+        "id": 312,
+        "designacao": "Mirrodin Besieged"
+    },
+    {
+        "id": 313,
+        "designacao": "Mirrodin Besieged Promos"
+    },
+    {
+        "id": 314,
+        "designacao": "Miscellaneous Book Promos"
+    },
+    {
+        "id": 315,
+        "designacao": "Modern Event Deck 2014"
+    },
+    {
+        "id": 316,
+        "designacao": "Modern Horizons"
+    },
+    {
+        "id": 317,
+        "designacao": "Modern Horizons Art Series"
+    },
+    {
+        "id": 318,
+        "designacao": "Modern Horizons Promos"
+    },
+    {
+        "id": 319,
+        "designacao": "Modern Masters"
+    },
+    {
+        "id": 320,
+        "designacao": "Modern Masters 2015"
+    },
+    {
+        "id": 321,
+        "designacao": "Modern Masters 2017"
+    },
+    {
+        "id": 322,
+        "designacao": "Morningtide"
+    },
+    {
+        "id": 323,
+        "designacao": "Multiverse Gift Box"
+    },
+    {
+        "id": 324,
+        "designacao": "Mystery Booster Playtest Cards"
+    },
+    {
+        "id": 325,
+        "designacao": "Mythic Edition"
+    },
+    {
+        "id": 326,
+        "designacao": "Nationals Promos"
+    },
+    {
+        "id": 327,
+        "designacao": "Nemesis"
+    },
+    {
+        "id": 328,
+        "designacao": "New Phyrexia"
+    },
+    {
+        "id": 329,
+        "designacao": "New Phyrexia Promos"
+    },
+    {
+        "id": 330,
+        "designacao": "Ninth Edition"
+    },
+    {
+        "id": 331,
+        "designacao": "Oath of the Gatewatch"
+    },
+    {
+        "id": 332,
+        "designacao": "Oath of the Gatewatch Promos"
+    },
+    {
+        "id": 333,
+        "designacao": "Odyssey"
+    },
+    {
+        "id": 334,
+        "designacao": "Onslaught"
+    },
+    {
+        "id": 335,
+        "designacao": "Open the Helvault"
+    },
+    {
+        "id": 336,
+        "designacao": "Planar Chaos"
+    },
+    {
+        "id": 337,
+        "designacao": "Planechase"
+    },
+    {
+        "id": 338,
+        "designacao": "Planechase 2012"
+    },
+    {
+        "id": 339,
+        "designacao": "Planechase 2012 Planes"
+    },
+    {
+        "id": 340,
+        "designacao": "Planechase Anthology"
+    },
+    {
+        "id": 341,
+        "designacao": "Planechase Anthology Planes"
+    },
+    {
+        "id": 342,
+        "designacao": "Planechase Planes"
+    },
+    {
+        "id": 343,
+        "designacao": "Planeshift"
+    },
+    {
+        "id": 344,
+        "designacao": "Ponies: The Galloping"
+    },
+    {
+        "id": 345,
+        "designacao": "Portal"
+    },
+    {
+        "id": 346,
+        "designacao": "Portal Demo Game"
+    },
+    {
+        "id": 347,
+        "designacao": "Portal Second Age"
+    },
+    {
+        "id": 348,
+        "designacao": "Portal Three Kingdoms"
+    },
+    {
+        "id": 349,
+        "designacao": "Premium Deck Series: Fire and Lightning"
+    },
+    {
+        "id": 350,
+        "designacao": "Premium Deck Series: Graveborn"
+    },
+    {
+        "id": 351,
+        "designacao": "Premium Deck Series: Slivers"
+    },
+    {
+        "id": 352,
+        "designacao": "Prerelease Events"
+    },
+    {
+        "id": 353,
+        "designacao": "Pro Tour Collector Set"
+    },
+    {
+        "id": 354,
+        "designacao": "Pro Tour Promos"
+    },
+    {
+        "id": 355,
+        "designacao": "Promotional Planes"
+    },
+    {
+        "id": 356,
+        "designacao": "Promotional Schemes"
+    },
+    {
+        "id": 357,
+        "designacao": "Prophecy"
+    },
+    {
+        "id": 358,
+        "designacao": "RNA Guild Kit"
+    },
+    {
+        "id": 359,
+        "designacao": "RNA Ravnica Weekend"
+    },
+    {
+        "id": 360,
+        "designacao": "Ravnica Allegiance"
+    },
+    {
+        "id": 361,
+        "designacao": "Ravnica Allegiance Promos"
+    },
+    {
+        "id": 362,
+        "designacao": "Ravnica: City of Guilds"
+    },
+    {
+        "id": 363,
+        "designacao": "Redemption Program"
+    },
+    {
+        "id": 364,
+        "designacao": "Release Events"
+    },
+    {
+        "id": 365,
+        "designacao": "Renaissance"
+    },
+    {
+        "id": 366,
+        "designacao": "Resale Promos"
+    },
+    {
+        "id": 367,
+        "designacao": "Return to Ravnica"
+    },
+    {
+        "id": 368,
+        "designacao": "Return to Ravnica Promos"
+    },
+    {
+        "id": 369,
+        "designacao": "Revised Edition"
+    },
+    {
+        "id": 370,
+        "designacao": "Rinascimento"
+    },
+    {
+        "id": 371,
+        "designacao": "Rise of the Eldrazi"
+    },
+    {
+        "id": 372,
+        "designacao": "Rise of the Eldrazi Promos"
+    },
+    {
+        "id": 373,
+        "designacao": "Rivals Quick Start Set"
+    },
+    {
+        "id": 374,
+        "designacao": "Rivals of Ixalan"
+    },
+    {
+        "id": 375,
+        "designacao": "Rivals of Ixalan Promos"
+    },
+    {
+        "id": 376,
+        "designacao": "Salvat 2005"
+    },
+    {
+        "id": 377,
+        "designacao": "Salvat 2011"
+    },
+    {
+        "id": 378,
+        "designacao": "San Diego Comic-Con 2013"
+    },
+    {
+        "id": 379,
+        "designacao": "San Diego Comic-Con 2014"
+    },
+    {
+        "id": 380,
+        "designacao": "San Diego Comic-Con 2015"
+    },
+    {
+        "id": 381,
+        "designacao": "San Diego Comic-Con 2016"
+    },
+    {
+        "id": 382,
+        "designacao": "San Diego Comic-Con 2017"
+    },
+    {
+        "id": 383,
+        "designacao": "San Diego Comic-Con 2018"
+    },
+    {
+        "id": 384,
+        "designacao": "San Diego Comic-Con 2019"
+    },
+    {
+        "id": 385,
+        "designacao": "Saviors of Kamigawa"
+    },
+    {
+        "id": 386,
+        "designacao": "Scars of Mirrodin"
+    },
+    {
+        "id": 387,
+        "designacao": "Scars of Mirrodin Promos"
+    },
+    {
+        "id": 388,
+        "designacao": "Scourge"
+    },
+    {
+        "id": 389,
+        "designacao": "Seventh Edition"
+    },
+    {
+        "id": 390,
+        "designacao": "Shadowmoor"
+    },
+    {
+        "id": 391,
+        "designacao": "Shadows over Innistrad"
+    },
+    {
+        "id": 392,
+        "designacao": "Shadows over Innistrad Promos"
+    },
+    {
+        "id": 393,
+        "designacao": "Shards of Alara"
+    },
+    {
+        "id": 394,
+        "designacao": "Signature Spellbook: Gideon"
+    },
+    {
+        "id": 395,
+        "designacao": "Signature Spellbook: Jace"
+    },
+    {
+        "id": 396,
+        "designacao": "Starter 1999"
+    },
+    {
+        "id": 397,
+        "designacao": "Starter 2000"
+    },
+    {
+        "id": 398,
+        "designacao": "Stronghold"
+    },
+    {
+        "id": 399,
+        "designacao": "Summer Magic / Edgar"
+    },
+    {
+        "id": 400,
+        "designacao": "Summer of Magic"
+    },
+    {
+        "id": 401,
+        "designacao": "Tarkir Dragonfury"
+    },
+    {
+        "id": 402,
+        "designacao": "Tempest"
+    },
+    {
+        "id": 403,
+        "designacao": "Tempest Remastered"
+    },
+    {
+        "id": 404,
+        "designacao": "Tenth Edition"
+    },
+    {
+        "id": 405,
+        "designacao": "Tenth Edition Promos"
+    },
+    {
+        "id": 406,
+        "designacao": "The Dark"
+    },
+    {
+        "id": 407,
+        "designacao": "Theros"
+    },
+    {
+        "id": 408,
+        "designacao": "Theros Hero's Path"
+    },
+    {
+        "id": 409,
+        "designacao": "Theros Promos"
+    },
+    {
+        "id": 410,
+        "designacao": "Throne of Eldraine"
+    },
+    {
+        "id": 411,
+        "designacao": "Throne of Eldraine Promos"
+    },
+    {
+        "id": 412,
+        "designacao": "Time Spiral"
+    },
+    {
+        "id": 413,
+        "designacao": "Time Spiral Timeshifted"
+    },
+    {
+        "id": 414,
+        "designacao": "Torment"
+    },
+    {
+        "id": 415,
+        "designacao": "Treasure Chest"
+    },
+    {
+        "id": 416,
+        "designacao": "Two-Headed Giant Tourdesignacaont"
+    },
+    {
+        "id": 417,
+        "designacao": "URL/Convention Promos"
+    },
+    {
+        "id": 418,
+        "designacao": "Ugin's Fate"
+    },
+    {
+        "id": 419,
+        "designacao": "Ultimate Box Topper"
+    },
+    {
+        "id": 420,
+        "designacao": "Ultimate Masters"
+    },
+    {
+        "id": 421,
+        "designacao": "Unglued"
+    },
+    {
+        "id": 422,
+        "designacao": "Unhinged"
+    },
+    {
+        "id": 423,
+        "designacao": "Unlimited Edition"
+    },
+    {
+        "id": 424,
+        "designacao": "Unstable"
+    },
+    {
+        "id": 425,
+        "designacao": "Unstable Promos"
+    },
+    {
+        "id": 426,
+        "designacao": "Urza's Destiny"
+    },
+    {
+        "id": 427,
+        "designacao": "Urza's Legacy"
+    },
+    {
+        "id": 428,
+        "designacao": "Urza's Saga"
+    },
+    {
+        "id": 429,
+        "designacao": "Vanguard Series"
+    },
+    {
+        "id": 430,
+        "designacao": "Vintage Championship"
+    },
+    {
+        "id": 431,
+        "designacao": "Vintage Masters"
+    },
+    {
+        "id": 432,
+        "designacao": "Visions"
+    },
+    {
+        "id": 433,
+        "designacao": "War of the Spark"
+    },
+    {
+        "id": 434,
+        "designacao": "War of the Spark Promos"
+    },
+    {
+        "id": 435,
+        "designacao": "Weatherlight"
+    },
+    {
+        "id": 436,
+        "designacao": "Welcome Deck 2016"
+    },
+    {
+        "id": 437,
+        "designacao": "Welcome Deck 2017"
+    },
+    {
+        "id": 438,
+        "designacao": "Wizards Play Network 2008"
+    },
+    {
+        "id": 439,
+        "designacao": "Wizards Play Network 2009"
+    },
+    {
+        "id": 440,
+        "designacao": "Wizards Play Network 2010"
+    },
+    {
+        "id": 441,
+        "designacao": "Wizards Play Network 2011"
+    },
+    {
+        "id": 442,
+        "designacao": "Wizards Play Network 2012"
+    },
+    {
+        "id": 443,
+        "designacao": "Wizards of the Coast Online Store"
+    },
+    {
+        "id": 444,
+        "designacao": "World Championship Decks 1997"
+    },
+    {
+        "id": 445,
+        "designacao": "World Championship Decks 1998"
+    },
+    {
+        "id": 446,
+        "designacao": "World Championship Decks 1999"
+    },
+    {
+        "id": 447,
+        "designacao": "World Championship Decks 2000"
+    },
+    {
+        "id": 448,
+        "designacao": "World Championship Decks 2001"
+    },
+    {
+        "id": 449,
+        "designacao": "World Championship Decks 2002"
+    },
+    {
+        "id": 450,
+        "designacao": "World Championship Decks 2003"
+    },
+    {
+        "id": 451,
+        "designacao": "World Championship Decks 2004"
+    },
+    {
+        "id": 452,
+        "designacao": "World Magic Cup Qualifiers"
+    },
+    {
+        "id": 453,
+        "designacao": "Worlds"
+    },
+    {
+        "id": 454,
+        "designacao": "Worldwake"
+    },
+    {
+        "id": 455,
+        "designacao": "Worldwake Promos"
+    },
+    {
+        "id": 456,
+        "designacao": "XLN Standard Showdown"
+    },
+    {
+        "id": 457,
+        "designacao": "XLN Treasure Chest"
+    },
+    {
+        "id": 458,
+        "designacao": "Zendikar"
+    },
+    {
+        "id": 459,
+        "designacao": "Zendikar Expeditions"
+    },
+    {
+        "id": 460,
+        "designacao": "Zendikar Promos"
+    }
+]

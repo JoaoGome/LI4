@@ -1,0 +1,12 @@
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/bin/Debug/net5.0/LI4.Shared.deps.json
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/bin/Debug/net5.0/LI4.Shared.dll
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/bin/Debug/net5.0/ref/LI4.Shared.dll
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/bin/Debug/net5.0/LI4.Shared.pdb
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/obj/Debug/net5.0/LI4.Shared.csprojAssemblyReference.cache
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/obj/Debug/net5.0/LI4.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/obj/Debug/net5.0/LI4.Shared.AssemblyInfoInputs.cache
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/obj/Debug/net5.0/LI4.Shared.AssemblyInfo.cs
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/obj/Debug/net5.0/LI4.Shared.csproj.CoreCompileInputs.cache
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/obj/Debug/net5.0/LI4.Shared.dll
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/obj/Debug/net5.0/ref/LI4.Shared.dll
+/Users/johnny/Documents/3ano/LI4/LI4/Fase3/App/LI4/Shared/obj/Debug/net5.0/LI4.Shared.pdb
