@@ -1,20 +1,43 @@
-Passos: (isto é para quem usar vscode em mac/linux a correr o microsoft sql num docker. Em windows com visual studio nao faço a minima como se faz isto.)
+Passos: 
+1 -> sacar dotnet 5.0
+2 -> se windows: instalar microsoft sql, se mac/linux ver como correr num docker uma imagem do microsoft sql
+3 -> instalar azure data studio para facilmente criar a base de dados
+4 -> ir ao ficheiro na pasta Server chamado appsettings.Development.json e mudar a parte onde diz "DefaultConnection": ...
 
-1. criar a database no Microsoft SQL
-2. ir ao ficheiro server/appsettings.Development.json e mudar a conectionString para a vossa
-3. entrar na diretoria do server e correr estes 3 comandos para instalar estas packages:
+        Exemplo: "Data Source=localhost;Initial Catalog=LI4;User Id=sa; Password=7654JprGli4"
 
-    dotnet add package Microsoft.EntityFrameworkCore
-    dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-    dotnet add package Microsoft.EntityFrameworkCore.Design
+            -> para mim a connection string à base de dados é esta porque eu chamei à base de dados LI4 e o meu username é sa e password é 7654JprGli4. vocês metem o que puserem quando criarem o server microsoft SQL.
 
-4. instalar os cli tools com o comando: dotnet tool install --global dotnet-ef 
+5 -> usar o azure data studio para se ligarem à base de dados do microsoftSQL (ha bues tutoriais na net a ensinar como fazer, quer esteja a ser corrida nativamente ou em docker).
+6 -> depois estarem ligados, façam right click em cima do server -> Query -> e escrevam a query:
 
-5. na diretoria do server correr:
+    "CREATE DATABASE <nome>"
 
-    dotnet ef migrations add Initial (at this point deve ter sido criada uma pasta chamada migrations com merdas la dentro)
+    onde <nome> deve ser substituido pelo nome que querem dar à base de dados.
 
-    dotnet ef database update (agora se forem à database ja deve ter as tabelas criadas com os atributos)
+7 -> depois da base de dados estar criada instalar os CLI tools com o comando:
+
+        dotnet tool install --global dotnet-ef 
+
+8 -> dentro da diretoria do server correr o comando:
+
+         dotnet ef migrations add Initial
+
+9 -> deve ter sido criada uma pasta chamada Migrations
+
+10 -> comer o comando:
+
+        dotnet ef database update
+
+11 -> se tudo correr bem e voltarem ao azure data sudio, na base de dados que criaram com o comando do passo 6, ja deve ter lá as tables todas necessárias.
+
+12 -> ir à pasta queries. Em cada tabela da base de dados, fazer right click -> Query e copiar para lá o texto que está no ficheiro das queries correspondentes. 
+
+        EX: o ficheiro CondicaoQuery.txt tem as queries para a table Condição etc.
 
 
+
+    NOTA: se nas queries der erro por causa de qualquer coisa acerca de IDENTITY INSERT ESTAR OFF, procurem no google como por ON e antes das queries, metam essa table ON e no fim metam OFF e repitam para cada grupo de queries.
+
+    NOTA2: as queries das vendas e dos produtos são muitas e o azure data studio crasha se tentarem tudo ao mesmo tempo. eu experimentei fazer às 15000 de cada vez e deu direito.
 

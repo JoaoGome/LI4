@@ -1,0 +1,27 @@
+﻿@if (Condicoes.Count == 0)
+{
+    <h1>Loading...</h1>
+    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif"/>
+}
+
+else
+{
+
+<table>
+    <tr>
+        <th>Designação</th>
+    </tr>
+
+    @foreach (var condicao in Condicoes)
+    {
+        <tr>
+            <td>@condicao.Designação</td>
+        </tr>
+    }
+</table>
+}
+
+@code
+{
+    [Parameter] public List<Condicao> Condicoes { get; set; } = new List<Condicao>();
+}

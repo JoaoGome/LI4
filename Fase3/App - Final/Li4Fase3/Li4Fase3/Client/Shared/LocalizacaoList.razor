@@ -1,0 +1,26 @@
+﻿@if (Localizacoes.Count == 0)
+{
+    <h1>Loading...</h1>
+    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" />
+}
+
+else
+{
+
+    <table>
+        <tr>
+            <th>Designação</th>
+        </tr>
+    </table>
+    @foreach (var localizacao in Localizacoes)
+    {
+        <tr>
+            <td>@localizacao.Designação</td>
+        </tr>
+    }
+}
+
+@code
+{
+    [Parameter] public List<Localizacao> Localizacoes { get; set; } = new List<Localizacao>();
+}

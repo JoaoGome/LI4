@@ -1,0 +1,24 @@
+﻿@page "/expansao"
+@inject IExpansaoRepository expansaoRepository
+
+<h3> Lista Expansoes </h3>
+<ExpansaoList Expansoes="Expansao">
+
+</ExpansaoList>
+
+@code
+{
+    List<Expansao> Expansao = new List<Expansao>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Expansao = await expansaoRepository.GetExpansao();
+        }
+        catch(Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

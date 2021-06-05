@@ -1,0 +1,24 @@
+﻿@page "/venda"
+@inject IVendaRepository vendaRepository
+
+<h3> Lista Vendas </h3>
+<VendasList Vendas="Venda">
+
+</VendasList>
+
+@code
+{
+    List<VendasDetailsDTO> Venda = new List<VendasDetailsDTO>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Venda = await vendaRepository.GetVendasDetailsDTO();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

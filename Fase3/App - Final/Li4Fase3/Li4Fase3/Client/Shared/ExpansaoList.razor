@@ -1,0 +1,28 @@
+﻿@if (Expansoes.Count == 0)
+{
+    <h1>Loading...</h1>
+    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" />
+}
+
+else
+{
+    <table>
+        <tr>
+            <th></th>
+            <th>Designação</th>
+            <th></th>
+        </tr>
+    </table>
+    @for (var i = 0; i < Expansoes.Count; i += 2)
+    {
+        <tr>
+            <td>@Expansoes[i].Designação</td>
+            <td>@Expansoes[i + 1].Designação</td>
+        </tr>
+    }
+}
+
+@code
+{
+    [Parameter] public List<Expansao> Expansoes { get; set; } = new List<Expansao>();
+}

@@ -1,0 +1,31 @@
+﻿@if (Produtos.Count == 0)
+{
+    <h1>Loading...</h1>
+    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" />
+}
+
+else
+{
+
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th></th>
+        </tr>
+
+        @foreach (var produto in Produtos)
+        {
+            <tr>
+                <td>@produto.Id</td>
+                <td>@produto.Nome</td>
+                <td><a href="produto/@produto.Id">Detalhes</a></td>
+            </tr>
+        }
+    </table>
+}
+
+@code
+{
+    [Parameter] public List<Produto> Produtos { get; set; } = new List<Produto>();
+}

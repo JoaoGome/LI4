@@ -1,0 +1,28 @@
+﻿@page "/produto/{ProdutoId:int}"
+@inject IProdutoRepository produtoRepository
+
+@if (model == null)
+{
+    <h1>Loading...</h1>
+    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" />
+}
+
+else
+{
+
+    <p><b>Id</b>: @model.Produto.Id</p>
+    <p><b>Nome</b>: @model.Produto.Nome</p>
+    <p><b>Condição</b>: @model.Produto.Condicao.Designação</p>
+    <p><b>Expansão</b>: @model.Produto.Expansao.Designação</p>
+    <p><b>Linguagem</b>: @model.Produto.Linguagem.Designação</p>
+}
+
+@code {
+    [Parameter] public int ProdutoId { get; set; }
+    ProdutoDetailsDTO model;
+
+    protected async override Task OnInitializedAsync()
+    {
+        model = await produtoRepository.GetProdutoDetailsDTO(ProdutoId);
+    }
+}

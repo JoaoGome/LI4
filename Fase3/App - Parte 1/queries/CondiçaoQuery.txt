@@ -1,0 +1,21 @@
+INSERT INTO  Condicao(Id, Designação) VALUES (0,'Perfeita')
+
+
+INSERT INTO  Condicao(Id, Designação) VALUES (1,'Quase Perfeita')
+
+
+INSERT INTO  Condicao(Id, Designação) VALUES (2,'Excelente')
+
+
+INSERT INTO  Condicao(Id, Designação) VALUES (3,'Boa')
+
+
+INSERT INTO  Condicao(Id, Designação) VALUES (4,'Pouco Jogada')
+
+
+INSERT INTO  Condicao(Id, Designação) VALUES (5,'Jogada')
+
+
+INSERT INTO  Condicao(Id, Designação) VALUES (6,'Má')
+
+

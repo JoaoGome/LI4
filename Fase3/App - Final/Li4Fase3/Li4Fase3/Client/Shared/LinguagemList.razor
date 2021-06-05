@@ -1,0 +1,26 @@
+﻿@if (Linguagens.Count == 0)
+{
+    <h1>Loading...</h1>
+    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" />
+}
+
+else
+{
+
+    <table>
+        <tr>
+            <th>Designação</th>
+        </tr>
+    </table>
+    @foreach (var linguagem in Linguagens)
+    {
+        <tr>
+            <td>@linguagem.Designação</td>
+        </tr>
+    }
+}
+
+@code
+{
+    [Parameter] public List<Linguagem> Linguagens { get; set; } = new List<Linguagem>();
+}

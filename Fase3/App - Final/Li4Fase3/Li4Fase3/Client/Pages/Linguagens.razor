@@ -1,0 +1,24 @@
+﻿@page "/linguagem"
+@inject ILinguagemRepository linguagemRepository
+
+<h3> Lista Linguagens </h3>
+<LinguagemList Linguagens="Linguagem">
+
+</LinguagemList>
+
+@code
+{
+    List<Linguagem> Linguagem= new List<Linguagem>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Linguagem = await linguagemRepository.GetLinguagem();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

@@ -1,0 +1,15 @@
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/bin/Debug/net5.0/Li4Fase3.Shared.deps.json
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/bin/Debug/net5.0/Li4Fase3.Shared.dll
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/bin/Debug/net5.0/ref/Li4Fase3.Shared.dll
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/bin/Debug/net5.0/Li4Fase3.Shared.pdb
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/Li4Fase3.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/Li4Fase3.Shared.AssemblyInfoInputs.cache
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/Li4Fase3.Shared.AssemblyInfo.cs
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/Li4Fase3.Shared.csproj.CoreCompileInputs.cache
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/Li4Fase3.Shared.dll
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/ref/Li4Fase3.Shared.dll
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/Li4Fase3.Shared.pdb
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/Li4Fase3.Shared.csprojAssemblyReference.cache
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/bin/Debug/net5.0/Li4Fase3.Shared.runtimeconfig.json
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/bin/Debug/net5.0/Li4Fase3.Shared.runtimeconfig.dev.json
+/Users/johnny/Projects/Li4Fase3/Li4Fase3/Shared/obj/Debug/net5.0/Li4Fase3.Shared.genruntimeconfig.cache

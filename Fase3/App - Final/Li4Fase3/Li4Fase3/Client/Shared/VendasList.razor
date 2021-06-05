@@ -1,0 +1,53 @@
+﻿<style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 5px;
+        text-align: left;
+    }
+</style>
+
+@if (Vendas.Count == 0)
+{
+    <h1>Loading...</h1>
+    <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" />
+}
+
+else
+{
+
+    <table>
+        <tr>
+            <th>NomeProduto</th>
+            <th>Condição</th>
+            <th>Expansão</th>
+            <th>Linguagem</th>
+            <th>Vendedor</th>
+            <th>LocalizaçãoVendedor</th>
+            <th>Preço</th>
+            <th>Data</th>
+        </tr>
+
+        @foreach (var venda in Vendas)
+        {
+            <tr>
+                <td>@venda.Produto</td>
+                <td>@venda.Condicao</td>
+                <td>@venda.Expansao</td>
+                <td>@venda.Linguagem</td>
+                <td>@venda.Vendedor</td>
+                <td>@venda.VendedorLocal</td>
+                <td>@venda.Venda.Preço</td>
+                <td>@venda.Venda.Data</td>
+            </tr>
+        }
+    </table>
+}
+
+@code
+{
+    [Parameter] public List<VendasDetailsDTO> Vendas { get; set; } = new List<VendasDetailsDTO>();
+}

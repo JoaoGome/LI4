@@ -1,0 +1,24 @@
+﻿@page "/produto"
+@inject IProdutoRepository produtoRepository
+
+<h3> Lista Produtos </h3>
+<ProdutoList Produtos="Produto">
+
+</ProdutoList>
+
+@code
+{
+    List<Produto> Produto = new List<Produto>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Produto = await produtoRepository.GetProduto();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

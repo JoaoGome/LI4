@@ -1,0 +1,24 @@
+﻿@page "/condicao"
+@inject ICondicaoRepository condicaoRepository
+
+<h3> Lista Condicoes </h3>
+<CondicaoList Condicoes="teste">
+
+</CondicaoList>
+
+@code
+{
+    private List<Condicao> teste = new List<Condicao>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            teste = await condicaoRepository.GetCondicao();
+        }
+        catch(Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

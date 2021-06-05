@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/Users/johnny/Projects/Li4Fase3/Li4Fase3/Client/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/johnny/Projects/Li4Fase3/Li4Fase3/Client/obj/Debug/net5.0/scopedcss/bundle/" />
+  <ContentRoot BasePath="/" Path="/Users/johnny/Projects/Li4Fase3/Li4Fase3/Client/wwwroot/" />
+</StaticWebAssets>

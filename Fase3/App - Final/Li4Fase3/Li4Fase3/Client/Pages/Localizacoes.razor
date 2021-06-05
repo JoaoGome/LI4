@@ -1,0 +1,24 @@
+﻿@page "/localizacao"
+@inject ILocalizacaoRepository localizacaoRepository
+
+<h3> Lista Localizacoes </h3>
+<LocalizacaoList Localizacoes="Localizacao">
+
+</LocalizacaoList>
+
+@code
+{
+    List<Localizacao> Localizacao= new List<Localizacao>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Localizacao = await localizacaoRepository.GetLocalizacao();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

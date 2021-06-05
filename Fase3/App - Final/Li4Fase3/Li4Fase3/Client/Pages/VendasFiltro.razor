@@ -1,0 +1,67 @@
+﻿@page "/vendaFiltro"
+@inject IVendaRepository vendaRepository
+
+<h3> Filtrar Vendas </h3>
+
+<EditForm Model="info" OnSubmit="Create">
+    <div class="form-group">
+        <label>Nome do Produto:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@info.Produto" />
+        </div>
+        <label>Condição do Produto:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@info.Condicao" />
+        </div>
+        <label>Expansão do Produto:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@info.Expansao" />
+        </div>
+        <label>Linguagem do Produto:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@info.Linguagem" />
+        </div>
+        <label>Preço do Produto:</label>
+        <div>
+            <InputNumber class="form-control" @bind-Value="@info.Preço" />
+        </div>
+        <label>Localização do Vendedor:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@info.Localizacao" />
+        </div>
+        <button class="btn btn-sucess" type="submit">Save Changes</button>
+    </div>
+
+</EditForm>
+
+@if (Vendas.Count() == 0)
+{
+    <p>Nenhuma Venda...</p>
+}
+else
+{
+    <VendasList Vendas="Vendas">
+
+    </VendasList>
+}
+
+@code
+{
+    private VendaForm info = new VendaForm();
+    public List<VendasDetailsDTO> Vendas = new List<VendasDetailsDTO>();
+    string content = "";
+
+    private async void Create()
+    {
+        if (info.Produto.Equals("")) content += ' ' + "_"; else content += info.Produto + "_";
+        if (info.Condicao.Equals("")) content += ' ' + "_"; else content += info.Condicao + "_";
+        if (info.Expansao.Equals("")) content += ' ' + "_"; else content += info.Expansao + "_";
+        if (info.Linguagem.Equals("")) content += ' ' + "_"; else content += info.Linguagem + "_";
+        if (info.Localizacao.Equals("")) content += ' ' + "_"; else content += info.Localizacao + "_";
+        content += info.Preço;
+
+        Console.WriteLine(content);
+        Vendas = await vendaRepository.GetVendasDTOFiltro(content);
+        content = "";
+    }
+}
